@@ -4,17 +4,6 @@ Worked solutions and study notes for David Morin's Introduction to Classical Mec
 
 These are original worked solutions, not copied from any solutions manual. They're written up for personal record-keeping and to track progress through the book; feel free to use them as a reference, but they're not guaranteed error-free — cross-check independently.
 
-## Structure
-
-Each chapter has its own folder containing the LaTeX source and compiled PDF.
-morin-classical-mechanics/
-├── ch01_statics/
-│ ├── ch01_statics.tex
-│ └── ch01_statics.pdf
-├── ch02_.../
-│ ├── ...
-└── README.md
-
 ## Progress
 
 | Chapter | Topic | Status |
